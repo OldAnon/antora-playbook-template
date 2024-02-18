@@ -1,0 +1,6 @@
+name: temp_comp
+title: Шаблон компонента
+version: ~
+
+nav:
+- modules/ROOT/nav.adoc

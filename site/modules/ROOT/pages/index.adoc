@@ -1,0 +1,5 @@
+= Главная
+
+Шаблон
+
+image::image.jpg[width=600]

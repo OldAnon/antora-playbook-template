@@ -6,7 +6,7 @@
         {
             "label": "Antora",
             "type": "shell",
-            "command": "npx antora --fetch antora-playbook.yml",
+            "command": "npx antora antora-playbook.yml",
             "problemMatcher": [],
             "group": {
                 "kind": "build",

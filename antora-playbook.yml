@@ -1,14 +1,11 @@
 site:
   title: Шаблон 
-  start_page: component::index.adoc
+  start_page: temp_comp::index.adoc
 content:
   sources:
-  - url: ...
+  - url: .
     start_path: site
-    branches: main
-
-  - url: ...
-    branches: [main, 1.0]
+    branches: HEAD
 
 
 asciidoc:
