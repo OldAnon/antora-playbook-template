@@ -1,0 +1,21 @@
+site:
+  title: Шаблон 
+  start_page: component::index.adoc
+content:
+  sources:
+  - url: ...
+    start_path: site
+    branches: main
+
+  - url: ...
+    branches: [main, 1.0]
+
+
+asciidoc:
+  attributes:
+    page-pagination: ''
+
+ui:
+  bundle:
+    url: https://github.com/OldAnon/antora-default-ui/releases/latest/download/ui-bundle.zip
+    snapshot: true
